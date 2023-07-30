@@ -57,6 +57,5 @@
         />
       </svg>
     </button>
-    <div class="ml-auto text-sm font-semibold">2d</div>
   </div>
 </div>
